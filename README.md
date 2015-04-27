@@ -8,7 +8,7 @@ ARDUINO -> ESP8266 WIFI Module -> IoT platform
 ###How to use
 
 For use this example just insert your **ssid** and **password** into the define's, on the top of the sketch.
-Then create an account into thingspeak.com, copy your api key and put into the sketch GET variable.
+Then create an account into [thingspeak.com](https://thingspeak.com/), copy your api key and put into the sketch GET variable.
 
 ###AT commands used in this example
 
