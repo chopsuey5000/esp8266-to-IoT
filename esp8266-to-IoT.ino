@@ -1,7 +1,7 @@
 #define SSID "your_SSID"
 #define PASS "your_pass"
 #define IP "184.106.153.149" // thingspeak.com IP
-String GET = "GET /update?key=L04DRVRSERUC44OR&field1=";
+String GET = "GET /update?key=your_apikey&field1=";
 
 long randNumber;
 

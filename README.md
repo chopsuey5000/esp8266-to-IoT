@@ -1,9 +1,14 @@
 # esp8266-to-IoT
 ARDUINO -> ESP8266 WIFI Module -> IoT platform
 
+###ESP8266 pinout
+
 ![esp8266 pinout](https://www.robotics.org.za/image/data/Breakout/Wifi/ESP8266_003.jpg)
 
+###How to use
+
 For use this example just insert your **ssid** and **password** into the define's, on the top of the sketch.
+Then create an account into thingspeak.com, copy your api key and put into the sketch GET variable.
 
 ###AT commands used in this example
 
